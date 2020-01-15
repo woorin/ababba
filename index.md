@@ -23,8 +23,8 @@ For initial user research, Team ABABBA will target a select set of Gig Economy w
 ## Meet the Team!
 This is us :) [Learn more about us here](./members.md)
 
-
-We will have a cute group pic later
+![groupic](./group.png)
+(This will be a cute group picture later)
 
 Fun fact: our team name is an amalgamation of our blood types. Take that as you will!
 
