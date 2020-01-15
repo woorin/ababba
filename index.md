@@ -1,8 +1,28 @@
 ---
 layout: default
 ---
+This is Team ABABBA's home page! We will be regularly updating progress on our project, GigOffice (Project GO). We hope to provide busy gig-economy workers with an online "office" space they can always check back into.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## GigOffice: Project GO
+
+Project GigOffice – Project GO – is a platform for gig-economy workers to share their experiences across different firms. In the increasingly decentralized gig economy, information is scarce: new entrants don’t have the proper data to compare firms and existing workers don’t know how their compensation compares to others. As the gig economy develops and becomes more complex, this problem will only grow.
+
+The platform will aggregate gig worker compensation data – benefits, take rate, total income, etc. – and demographic data – geography, tenure, work schedules, etc. – and let users search for compensation data accordingly. Ideally, centralizing compensation data and other worker experiences will help all participants in the gig economy, from the worker who’s just starting out and needs to decide who to join to the veteran who’s worried she isn’t getting a good deal anymore.
+
+The initial technical plan is to make the platform a mobile-friendly website, which is both more discreet and lighter-weight than a mobile app. However, upon user research, this may be subject to change.
+
+For initial user research, Team ABABBA will target a select set of Gig Economy workers, likely Uber, Lyft, and GrubHub drivers. All three groups already have some non-specialized forms of organization – for example, searching “Uber Drivers Chicago” on Facebook returns several dedicated Facebook groups – but Project GO will innovate on the current means by offering increased anonymity and centralization.
+
+### Deliverables
+
+[Link to another page](./another-page.html).
+bunch of links
+
+## Meet the Team!
+
+Pics and stuffs
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +140,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
