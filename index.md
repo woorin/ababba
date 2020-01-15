@@ -19,7 +19,6 @@ For initial user research, Team ABABBA will target a select set of Gig Economy w
 * [Design Alternatives](./designAlternatives.md)
 * [Project Prototype](./projectPrototype.md)
 * [Final Report](./finalReport.md)
-* [Project Proposal](./projectProposal.md)
 
 ## Meet the Team!
 
