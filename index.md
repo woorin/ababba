@@ -15,7 +15,7 @@ For initial user research, Team ABABBA will target a select set of Gig Economy w
 
 ### Deliverables
 
-* [Project Proposal](./projectProposal.html)
+* [Project Proposal](./projectProposal.md)
 * [Design Alternatives](./designAlternatives.html)
 * [Project Prototype](./projectPrototype.html)
 * [Final Report](./finalReport.html)
