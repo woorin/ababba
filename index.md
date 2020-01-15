@@ -22,15 +22,6 @@ bunch of links
 
 Pics and stuffs
 
-```html
-<button type="button" class="btn">Basic</button><div class="container">
-  <h2>Button Tags</h2>
-  <a href="#" class="btn btn-info" role="button">Link Button</a>
-  <button type="button" class="btn btn-info">Button</button>
-  <input type="button" class="btn btn-info" value="Input Button">
-  <input type="submit" class="btn btn-info" value="Submit Button">
-</div>```
-
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
