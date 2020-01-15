@@ -15,7 +15,7 @@ For initial user research, Team ABABBA will target a select set of Gig Economy w
 
 ### Deliverables
 
-[Link to another page](./another-page.html).
+[Link to another page](./1.html).
 bunch of links
 
 ## Meet the Team!
