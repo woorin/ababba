@@ -3,7 +3,7 @@
 ## Alan Chen
 ![alan](./alan.png)
 
-
+&nbsp;
 
 ## Jonas Ciplickas
 ![jonas](./jonas.png)
