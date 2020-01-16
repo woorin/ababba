@@ -1,4 +1,4 @@
-# Our Team
+## Our Team
 
 ### Alan Chen
 3rd year: computer science
