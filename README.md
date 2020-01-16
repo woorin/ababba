@@ -4,4 +4,4 @@
 * Chen, Alan
 * Ciplickas, Jonas
 * Jang, Woorin
-* Tang, Michaek
+* Tang, Michael
