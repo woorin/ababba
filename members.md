@@ -1,21 +1,21 @@
 # Our Team
 
-### Alan Chen
+## Alan Chen
 ![alan](./alan.png)
 
-* * *
 
-### Jonas Ciplickas
+
+## Jonas Ciplickas
 ![jonas](./jonas.png)
 
-* * *
 
-### Michael Tang
+
+## Michael Tang
 ![michael](./michael.png)
 
-* * *
 
-### Woorin Jang
+
+## Woorin Jang
 ![woorin](./woorin.png)
 
 
