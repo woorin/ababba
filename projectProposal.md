@@ -86,6 +86,12 @@ We will evaluate our eventual design with two main goals in mind: 1) seamless in
 	
 In addition, we will attempt to design a UI in accordance with Norman’s 7 design principles. We want to make sure that our design does a good job at presenting affordances appropriately (i.e. users can quickly understand that our background app is meant to collect information passively). We also want to ensure discoverability and signifiers to allow users to quickly figure out how to navigate through the UI. We want to make sure there is appropriate feedback for when a ride has been successfully recorded in our background app, as well as provide a clear conceptual model on how information goes from completing a ride to being presented. We also want users to know about possible constraints (e.g. requirement for access to an internet-enabled device).
 
+## Works Cited
+* Chen, M. Keith, and Michael Sheldon. “Dynamic Pricing in a Labor Market: Surge Pricing and Flexible Work on the Uber Platform.” Proceedings of the 2016 ACM Conference on Economics and Computation - EC '16, 2016, doi:10.1145/2940716.2940798.
+* Greenhouse, Steven. “Uber: On the Road to Nowhere.” The American Prospect, 2016.
+* Shokoohyar, Sina. “Ride-Sharing Platforms from Drivers’ Perspective: Evidence from Uber and Lyft Drivers .” International Journal of Data and Network Science, vol. 2, 10 Oct. 2018, pp. 89–98.
+* Wood, Alex J, et al. “Good Gig, Bad Gig: Autonomy and Algorithmic Control in the Global Gig Economy.” Work, Employment and Society, vol. 33, no. 1, 2018, pp. 56–75., doi:10.1177/0950017018785616.
+
 ## Appendix A
 APPENDIX A
 Survey Questions
